@@ -1,0 +1,442 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case and proceedings of at least sixty gentlemen participants and purchasers for valuable consideration, of lands in the levell of Hatfield Chace, the counties of York, Lincolne and Nottingham and more then two hundred of their tenants who have been dispoiled of their estates by the inhumane and barbarous ryots of the inhabitants of the mannor of Epworth ... / humbly presented to the consideration of this present Parliament for redress of their so great losses and dammages as it was also to the several parliaments sitting in the years 1651 and 1654.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35588</idno>
+            <idno type="STC">Wing C849</idno>
+            <idno type="STC">ESTC R37529</idno>
+            <idno type="EEBO-CITATION">16967067</idno>
+            <idno type="OCLC">ocm 16967067</idno>
+            <idno type="VID">105541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105541)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1611:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case and proceedings of at least sixty gentlemen participants and purchasers for valuable consideration, of lands in the levell of Hatfield Chace, the counties of York, Lincolne and Nottingham and more then two hundred of their tenants who have been dispoiled of their estates by the inhumane and barbarous ryots of the inhabitants of the mannor of Epworth ... / humbly presented to the consideration of this present Parliament for redress of their so great losses and dammages as it was also to the several parliaments sitting in the years 1651 and 1654.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fens, The (England)</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105541:1" rendition="simple:additions"/>
+            <p>THE CASE AND PROCEEDINGS Of at leaſt Sixty Gentlemen, Participants and Purchaſers, for valuable con<g ref="char:EOLhyphen"/>ſideration, of Lands, in the Levell of <hi>Hatfield Chace,</hi> the Counties of <hi>York, Lincolne</hi> and <hi>Nottingham;</hi> AND MORE THEN Two hundred of their Tenants, Who have been diſpoiled of their Eſtates, by the inhumane and barbarous Ryots of the Inhabitants of the Mannor of <hi>Epworth;</hi> whereof ſome have been murthered, others wounded, the Church with their Houſes demoliſhed, and the materials thereof, with their Goods taken from them by force: For which cauſe they the ſaid Rioters were exempted in the laſt Act of Generall Pardon.</p>
+            <p>Humbly preſented to the Conſideration of this preſent PARLIAMENT, for Redreſs and Reparation of their ſo great Loſſes and Dammages; As it was alſo to the ſeveral PARLIAMENTS ſitting in the Years 1651, and 1654.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105541:2"/>
+            <pb n="1" facs="tcp:105541:2"/>
+            <head>The State of the CASE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He late King, owner of the ſeverall Mannors of <hi>Hatfield, Thorne, Fiſhlacke, Dowſethorpe, Stainford, Snaith, Co<g ref="char:EOLhyphen"/>wicke</hi> and <hi>Rawcliffe,</hi> in the County of <hi>Yorke; Crowle, Ep<g ref="char:EOLhyphen"/>worth, Wroote</hi> and <hi>Miſſen</hi> in the County of <hi>Lincoln;</hi> and of <hi>Miſterton</hi> and <hi>Gringley</hi> in the County of <hi>Nottingham;</hi> the waſtes of all which lying contiguous and ſo hurtfully ſurrounded by the ſeverall Rivers of <hi>Trent, Bickerſdicke, Idle, Torne, Dunne</hi> and <hi>Ayre,</hi> that it yeelded little or no profit to the Commonwealth; but on the contrary nouriſhed beggars and idle perſons: and the ſaid King having a Chace of Red-Deer through five of thoſe Mannors, the reſt were much annoyed and oppreſt thereby; did reſolve by the advice of his Council, as well for the eaſing of his charge, and increaſe of his re<g ref="char:EOLhyphen"/>venue, as for the improvement and reducing of ſo great a quantity of drowned and boggy ground, to be made good meadow, arable and paſture, for the advan<g ref="char:EOLhyphen"/>tage of the Commonwealth: did by advice of his Councel, under the Great Seal, contract with Sir <hi>Cornelius Vermuyden,</hi> to drain and lay dry the ſame, being in all about 600000 Acres of Land at his own charge; and in recompence thereof he ſhould have one third part: And thereupon directed Commiſſions to ſeverall Gentlemen of thoſe Countries, to treat and agree with all ſuch as pretended right of Common within thoſe ſeverall Mannors; which took effect with all the Man<g ref="char:EOLhyphen"/>nors unanimouſly, except the Manners of <hi>Epworth</hi> in the County of <hi>Lincolne:</hi> and againſt the Commiſſioners within that Mannor, Sir <hi>Robert Heath</hi> being the then Attorney Generall, exhibited an Information in the Exchequer Chamber; whereupon 370 Commoners (who were all, that at that time could be diſcovered to have right of Common there) came and ſubmitted to ſuch an Award as Sir <hi>John Bankes</hi> the then Attorney Generall ſhould make therein: who upon ſeverall hearings of all parties and their Council, made an Award; that of 13400 Acres belonging to that Mannor, which was then drained among the reſt of the levell, 6000 Acres ſhould be allotted the Commoners as their part or proportion, lying next the Towns, and ſo preſerved for ever at the charge of the ſaid Sir <hi>C. V.</hi> and the remaining 7400 Acres ſhould be ſet out in the remoteſt parts of thoſe waſhes, to Sir <hi>Cor. Vermuyden</hi> and his participants for their third part, and for the late Kings part, in right of his intereſt as Lord of the ſoyle; and this by conſent was de<g ref="char:EOLhyphen"/>creed in the Exchequer Chamber, and poſſeſſion accordingly eſtabliſhed with Sir <hi>Cor. Vermuyden</hi> and his Participants and their Aſſignes; who being in peaceable and quiet poſſeſſion, did manure, build, and plant a Town called <hi>Sandtoft,</hi> and a Church therein, and placed a Miniſter, whereto reſorted above 200 Families of French and Walloon Proteſtants (who fled out of their native Country for fear of the Inquiſition, only to enjoy the free exerciſe of their Religion here,) who builded and planted above 200 habitations for husbandry, and plowed and tilled much of the ſaid 24500 Acres of Land, to the great advantage of the Com<g ref="char:EOLhyphen"/>monwealth:
+<pb n="2" facs="tcp:105541:3"/>
+and quietly enjoyed the fruits of ſuch their labours, till about <hi>June</hi> 1642. at which time ſome of the Inhabitants thereabout, pretending they had right of Common, ſaid they were not bound by the ſaid Decree, and taking advan<g ref="char:EOLhyphen"/>tage of the diſtractions of thoſe times, riſe in tumults, break down the fences and incloſures of 4000 Acres, deſtroyed all the Corn growing, and pulled down the houſes built thereon. Then the Participants petitioned the Lord <hi>Fairfax</hi> and the Earl of <hi>Mancheſter,</hi> who gave expreſs order to quiet thoſe Ryots; but all was in vain, as will appear by the ſeverall Reports made upon a full Examination of the whole Buſineſs, and hearing both parties concerned.</p>
+            <p>In the year 1645. the Participants being thus grievouſly oppreſſed, and con<g ref="char:EOLhyphen"/>trary to Law caſt out of their poſſeſſions; upon their addreſs to the then Parlia<g ref="char:EOLhyphen"/>ment by Petition, they were pleaſed to make theſe Orders following. <hi>Viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Wedneſday 10<hi rend="sup">th</hi> 
+                     <hi>Decemb.</hi> 1645.</head>
+                  <p>WHereas the Participants in the draining, and Tenants and Inha<g ref="char:EOLhyphen"/>bitants of the Levill of <hi>Hatfield Chace</hi> and parts adjacent, in the Counties of <hi>Yorke, Lincolne</hi> and <hi>Nottingham,</hi> have petitioned this Houſe, informing that after the expence of at leaſt 200000<hi rend="sup">lb</hi> in thoſe Works, the Tennants of the Mannor of <hi>Epworth</hi> (being part of that Draining) conſenting to a Decree paſſed in the Exchequer for ſettle<g ref="char:EOLhyphen"/>ment of the proportions agreed on and ſet out of that Mannor, and ever ſince enjoyed by the Participants and their Tenants, till of late, and ſince the diſtractions of theſe times, divers of the unruly Inhabitants of the ſaid Mannor, have in a tumultuous manner, thrown down and laid waſte a proportion of at leaſt 7400 Acres of Land, and deſtroyed a very great quantity of Rapes and Corn growing, by forcible keeping and depaſturing their Cattle thereon, demolliſhed very many houſes, burned others, cut and burned the Plowes, beat and wounded thoſe they have found ploughing, or have reſiſted them in any their outragious acts, and now threaten the drowning of the whole; by cut<g ref="char:EOLhyphen"/>ting of the banks, and miſuſage of the ſluces, and reſiſt the Participants in levying Taxes for repair of the Works, to the great dammage of the Commonwealth in generall, and ſcandall of the Juſtice thereof, in caſe it ſhould not be reſtrained, and the offendors puniſhed.</p>
+                  <p>For reſtraining of the like outrages for the future, and for preſerva<g ref="char:EOLhyphen"/>tion of the peace of the Country; It is Ordered by the Lords in Par<g ref="char:EOLhyphen"/>liament aſſembled: That the Sheriff of the ſaid County of <hi>Lincolne,</hi> and Juſtices of Peace there, ſhall upon complaint made to them by the Participants of the ſaid Levell, or their Agents, punctually purſue the Statutes made in the 13<hi rend="sup">th</hi> year of King <hi>Henry</hi> the 4<hi rend="sup">th</hi>, for ſuppreſſing of Ryots and routs, and ſhall call to their aſſiſtance, if need require, the trained Bands of the ſaid County, and the Parliaments forces next adjoyning, to be ayding and aſſiſting unto the Participants, in guarding and keeping the Sluces and Sewers, reedifying and repairing what hath been ſo demoliſhed, and levying the Taxes legally impoſed, tending to the preſervation of ſo good and beneficiall a work to the Common<g ref="char:EOLhyphen"/>wealth, and for the ſetling of this buſineſſe; It is further ordered, That
+<pb n="3" facs="tcp:105541:3"/>
+the Sheriff of the County of <hi>Lincolne</hi> for the time being, ſhall upon requeſt to him made by the Participants, appoint ſuch a Deputy within the limits of the ſaid Levell, for ſuddaine ayding and aſſiſting them (if need ſhall require) as they from time to time ſhall deſire. And it is likewiſe ordered by their Lordſhips, That as well the Miniſters in the adjacent Pariſhes, ſhall upon the next Sunday after receipt of this Order, as the Under-Sheriff of the County of <hi>Lincolne</hi> in the ſeverall adjacent Market-Townes on the Market day, make publication of this Order; that the Inhabitants may take notice hereof, and conforme accordingly.</p>
+                  <closer>
+                     <signed>Jo. Browne Cleric. Parliamentorum.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Die Sabbathi viceſsimo primo Martii <hi>1645.</hi>
+                  </head>
+                  <p>WHereas the Participants in the draining of <hi>Hatfield Chace</hi> and parts adjacent, in the Counties of <hi>Yorke, Lincolne</hi> and <hi>Notting<g ref="char:EOLhyphen"/>ham,</hi> have petitioned this Houſe, inſomuch that by Order of the Com<g ref="char:EOLhyphen"/>mittee of <hi>Lincolne,</hi> the Tenants and Inhabitants of thoſe drained Lands within the Mannor of <hi>Epworth,</hi> have entred Bonds for payment to the Committee of their Rents due to their Landlords at our <hi>Lady day</hi> now next coming, and at <hi>Michaelmas</hi> next coming, to be depoſited in their hands till the tryall of a Title; and likewiſe that the ſaid Levell is become totally drowned, by the malicious pulling up of a navigable Sluce, which kept the River of <hi>Trent</hi> from flowing into <hi>Vickerſdicke,</hi> whereby very great dammage is hapned, not only to the Participants and Tenants in particular, but to the Commonwealth in generall: For reedifying of which, and other Sluces, Banks, Draines and Incloſures demoliſhed; this Houſe did on the 10<hi rend="sup">th</hi> of <hi>Decemb.</hi> laſt ſettle by Order, which Order the Lords in Parliament aſſembled doe hereby confirme; And do further Order, That thoſe Bonds ſo taken from the Tenants, be (upon notice of this Order) brought into this Houſe, to be diſpoſed of as to Juſtice ſhall appertain: And do likewiſe require and authorize the Commiſſioners of Sewers for the ſaid Levell, that they be ayding and aſſiſting to the Participants with all their legall authority, in reedifying the things ſo demoliſhed, and preſerving the ſaid Levell from future inundation and deſtruction by the pretended Commoners; in which they are hereby authoriſed and required, to call to their aſſiſtance the Sheriffs of the County, and the Juſtices of the Peace next adjoyning to the ſaid Works, to be ayding and aſſiſting in the eſtabliſhing and preſer<g ref="char:EOLhyphen"/>vation of ſo good and beneficiall a wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k to the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mmonwealth.</p>
+                  <closer>
+                     <signed>Jo. Browne Cleric. Parliamentorum.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="4" facs="tcp:105541:4"/>Upon the Bill in the Exchequer Chamber for eſtabliſhing the poſſeſſion againſt thoſe ſeaven who brought their Actions at Law: the Court upon ſeverall debates and ſearch of the preſidents, they made this Order fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Mercurii decimo die Februarii <hi>1646.</hi>
+                  </head>
+                  <p>WHereas in the Cauſe here depending, by Engliſh Bill exhibited by Sir <hi>Thomas Abdy</hi> Knight and others, Plaintiffs againſt <hi>James Mawe, Gregory Tore, William Bire, Richard Mawe, Robert Bar<g ref="char:EOLhyphen"/>nard, William Tonge, Thomas Medley,</hi> and others, the Tenants and In<g ref="char:EOLhyphen"/>habitants of <hi>Epworth</hi> in the County of <hi>Lincolne</hi> Defendants, upon hear<g ref="char:EOLhyphen"/>ing of his Majeſties Sollicitor generall on the ſaid Plaintiffs behalf, concerning the ſtay of Suits by Action at Law brougbt by the ſaid De<g ref="char:EOLhyphen"/>fendants, againſt <hi>Anthony Maſsingarb</hi> and others Plaintiffs in this Court, claiming under his Majeſties Title; It was ordered by this Court the Eight day of this inſtant <hi>February,</hi> That the Council on either part ſhould attend this Court this day, concerning the ſtay of the ſaid Suits, and that in the mean time the ſaid Defendants were ordered not to proceed therein, as by the ſaid Order at large appeareth. Now upon hearing of M<hi rend="sup">r</hi> Sollicitor Generall, M<hi rend="sup">r</hi> 
+                     <hi>Thorpe</hi> and others on the behalf of the ſaid Plaintiffs, and of M<hi rend="sup">r</hi> 
+                     <hi>Gates,</hi> M<hi rend="sup">r</hi> 
+                     <hi>Ellis</hi> and others on the behalf of the ſaid Defendants, endeavouring to ſhew cauſe for the further pro<g ref="char:EOLhyphen"/>ceedings in the ſaid Suits at Law; and upon producing of an Exem<g ref="char:EOLhyphen"/>plification of a Decree of this Court, for the ſetling of the quiet poſſeſ<g ref="char:EOLhyphen"/>ſion of the Lands in queſtion, and of the intereſt of his Majeſty therein; It is this day ordered by this Court, That his Majeſties Sollicitor ge<g ref="char:EOLhyphen"/>nerall ſhall proceed upon the ſaid Bill in this Court with all convenient ſpeed: and in the mean time the poſſeſſion of the Lands in queſtion, to be held in quiet by the ſaid Plaintiffs, as it hath been formerly ſetled by this Court, and enjoyed at any time ſince the ſaid Decree made. And that the ſaid Suits at Law ſhall be ſtayed by the Injunction of this Court, untill the hearing of the Cauſe, or that this Court give further order.</p>
+               </body>
+            </floatingText>
+            <p>Upon which Injunction, the Sheriff having a Writ of Aſſiſtance, came with neer 100 perſons to quiet the poſſeſſion, and ſet up the fences of the 4000 Acres firſt laid waſte; but then <hi>Daniell Noddell</hi> came with 400 men, and forced the Sheriff with all his aſſiſtants to flie, and then demoliſhed what the Sheriff had before cauſed to be ſet up: Then the Participants brought their Bill to hearing, and during that time, the ſaid Inhabitants riſe in tu<g ref="char:EOLhyphen"/>mults, and laid waſte the remaining 3400 Acres, as in the Report.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:105541:4"/>
+                  <head>The Council of State being informed of the continuall Ryots committed by the ſaid Inhabitants, writ the enſuing Letter to the Sheriff of <hi>Lincolneſhire.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR</salute>
+                  </opener>
+                  <p>WE are informed that there hath been ſeverall Ryotous and tumultuous ga<g ref="char:EOLhyphen"/>therings together of people in that County of <hi>Lincolne,</hi> under ſome pretence about the Commons of <hi>Epworth;</hi> which kinde of meetings ought not at any time to be ſuffered, but effectually proceeded againſt as the Laws have directed, that by the puniſhment of ſome, others may be deterred from ſuch like attempts: but eſpecially in ſuch times as theſe, a more diligent care ought to be taken to prevent ſuch meetings of the multitude, that may make uſe of other pretences to begin Inſurrections and carry on deſignes, to the interruption of the publike peace and danger of the Commonwealth. You are therefore to keep a watchfull eye upon the confluence of people upon any feigned pretences whereby danger may probably ariſe, and to make uſe of the power the Law hath put into your hand, and intruſted you with to preſerve the peace of the County: And if you find that power not ſufficient for that pur<g ref="char:EOLhyphen"/>poſe, you may deſire aſsiſtance from ſuch forces of the Commonwealth as ſhall be neareſt you; who are hereby ordered, and ſhall have directions, to give you ſuch aſsiſtance as ſhall be neceſſary for your effecting that work, whereby dan<g ref="char:EOLhyphen"/>gerous conſequences may be prevented, and delinquents againſt the publike peace may be brought to condigne puniſhment; the people nevertheleſſe for ſuch wrongs as they may have cauſe to complain of, being left to proſecute their pretences in a peaceable and quiet manner in due courſe of Law, where they may have right witeout making themſelves Judges in their own Caſes, by ſuch exorbitant and irregular courſes.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Whitehall</hi>
+                        <date>
+                           <hi>the 12<hi rend="sup">th</hi>
+                           </hi> July <hi>1651.</hi>
+                        </date>
+                     </dateline>
+                     <signed>
+                        <hi>Signed,</hi> &amp;c.</signed>
+                  </closer>
+                  <postscript>
+                     <p>To the High Sheriff of the County of <hi>Lincolne,</hi> Theſe</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>After theſe Orders and Letter before mentioned were made herein, yet the Inhabitants aforeſaid, ceaſed not to Ryot, <hi>&amp;c.</hi> whereupon the ſaid Parti<g ref="char:EOLhyphen"/>cipants petitioned the Parliament in the year 1651. which was referred to a Committee of the then Parliament the 10<hi rend="sup">th</hi> of <hi>January</hi> following: who upon full examination of the whole matter, and Witneſſes upon Oath on both ſides, made the Report following, <hi>viz.</hi>
+            </p>
+         </div>
+         <div type="report">
+            <pb n="6" facs="tcp:105541:5"/>
+            <head>THE REPORT OF THE Committee OF PARLIAMENT.</head>
+            <p>BY vertue of an Order of Parliament of the 10<hi rend="sup">th</hi> of <hi>January</hi> 1651. we have taken into Conſideration the Petition of the Participants in the Drainage of the Levell of <hi>Hatfield</hi> Chace, and upon Examination of ſeverall Witneſ<g ref="char:EOLhyphen"/>ſes upon Oath, We finde</p>
+            <p>That the Petitioners at the Expence of 175046<hi rend="sup">lb</hi> or thereabouts, did Drain and lay Dry about 60000 Acres of Land, lying contiuguous within the Counties of <hi>York Lincoln</hi> and <hi>Nottingham,</hi> which Land was not worth before 3 ſhillings 4 pence <hi>per</hi> Acre, and made the ſame worth 10 ſhillings, 12 ſhillings, 16 ſhillings, and ſome 20 ſhillings <hi>per</hi> Acre.</p>
+            <p>That in <hi>June</hi> 1642. the Petitioners had been in a quiet poſſeſſion by the ſpace of 10 years, of about 7400 Acres of that Land lying within the Mannor of <hi>Epworth.</hi>
+            </p>
+            <p>That in 1642. <hi>John Allen, John Croſſe, Leonard Cowling, William Spaven, Tho<g ref="char:EOLhyphen"/>mas Noble, James Stokeham, Edward Baffendale, Thomas Meggot, Edward Wyld<g ref="char:EOLhyphen"/>bore, Edward Earle</hi> and <hi>William Wake, Robert Hawksworth, Thomas Thomkinſon, John Wilſon, William Carryer, Robert Snell, John Garland</hi> and divers others, in a Tumultuous manner came into the Levell within the Mannor of <hi>Epworth,</hi> and there brake down the Fences, and put in their Cattle, and deſtroyed about 160 Acres of growing Corn and Rapes, and then divers of the Inhabitants of <hi>Haxey</hi> came in amongſt them and continued Rioting from day to day till they had laid waſt a<g ref="char:EOLhyphen"/>bout 4000 Acres of the Drained Land, and pulled down ſeverall Houſes thereon ſtanding.</p>
+            <p>That about that time Captain <hi>Kingman</hi> (ſince dead) with divers others of the Mannor of <hi>Epworth,</hi> pull'd up a Navigable Saſs planted in <hi>Vickerdicke,</hi> which coſt the replanting 1500<hi rend="sup">lb</hi> at the leaſt.</p>
+            <p>That ſhortly after <hi>Thomas Peacocke, Thomas Burton</hi> and divers others, ſeverall daies during the flowing of the Spring Tides, forced open a Sewer called Snow Sewer, planted upon the River of Trent for venting the waters out of the Levell, and during the ebb ſhut down the inner doors whereby the waters could not get out; this courſe they uſed till they had drowned about 8000 Acres of Corn and Rapes then growing, and the Corn ſtacks generally half way, with moſt of the Habitations by the ſpace of Ten weeks.</p>
+            <p>That the Tenants thus expulſed from their Habitations complained to the Com<g ref="char:EOLhyphen"/>mittee of <hi>Lincoln,</hi> who gave them an Order to open the Sluce and let out the waters, which Order being brought, the ſaid <hi>Peacocke, Burton</hi> and others, with Muskets defended the Sluce and refuſed to give obedience</p>
+            <p>
+               <pb n="7" facs="tcp:105541:5"/>That in the year 1647. upon the Bill depending in the Exchequer, exhibited by the Petitioners againſt the Inhabitants, ſeverall Orders were made for the eſtabliſh<g ref="char:EOLhyphen"/>ing the poſſeſſion with the Petitioners, and Order given to the Sheriff to aſſiſt them, and then <hi>Daniel Noddel</hi> an Attorney at Law, <hi>Thomas Taukersby, Robert Browne, Thomas Hill</hi> of <hi>Epworth,</hi> and <hi>Richard Jarvis</hi> of <hi>Owſton,</hi> with divers others, to the number of 400 perſons, came upon the place Armed with Swords and Muskets to reſiſt, whereby thoſe Orders were fruitleſs.</p>
+            <p>That the Petitioners being ſtill kept out of their Poſſeſſion, brought their Bill to hearing; then the ſaid <hi>Daniel Noddel</hi> the Soliciter for theſe Inhabitants, got in to his aſſiſtance Lieutenant Col. <hi>John Lilburn</hi> and Major <hi>John Wildman,</hi> and while the Cauſe was hearing, the Inhabitants began to Ryot on 3400 Acres which was yet kept up.</p>
+            <p>That upon Complaint thereof to the Court of Exchequer, they ſent an Injun<g ref="char:EOLhyphen"/>ction and a Writ of Aſſiſtance to the Sheriff, to quiet the poſſeſſion till the hearing of the Cauſe, but in his preſence the Fences are thrown down by multitudes, and the Riotors by force fetch away the Tenants Cattle and Impound them, and refuſe to admit Replevins, and force them to Redeem them at what Rate they pleaſe.</p>
+            <p>That the perſons Acting in theſe laſt Ryots on the 3400 Acres, were <hi>Thomas Hill</hi> of <hi>Epworth, Robert Johnſon, Alexander Fox, John Watſon</hi> junior, <hi>Thomas Glew, John Johnſon, Richard Mane</hi> Conſtable, <hi>Richard Procter, Thomas Hallifax, Willi<g ref="char:EOLhyphen"/>am Elmer, John Artus, Jehoſaphat Tayler, John Granger, Peter Clerke</hi> of <hi>Belton, William Robinſon, Thomas Bernard, George Peacocke, Jeffery Whitaker</hi> of <hi>Epworth, William Whaſh</hi> of <hi>Belton, John Brocke, Samuel Clayton, William Pepplewell</hi> junior, <hi>Ralph Wray, Alexander Fletcher, Charles Laund, Robert Young, Robert Pycocke, William Pycocke, Robert Cheſman, Alexander Pitts, John Foſter, John Pettyner, Mat<g ref="char:EOLhyphen"/>thew Dale, John Robſon, William Parkinſon, Thomas Granger, John Hallifax, Charles Tea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Edward Hallifax, William Swindall, Henry Cleire, Richard Roſe, William Thomſon, Robert Teale, Richard Bernard, Thomas Clearke, Thomas Tayler, Mat<g ref="char:EOLhyphen"/>thew Hallifax, Thomas Davis</hi> ſenior, <hi>John Davis</hi> junior, <hi>Peter Bernard</hi> High-Conſtable, <hi>John Bernard,</hi> all of <hi>Belton: William Whiteacre</hi> ſenior, <hi>William White<g ref="char:EOLhyphen"/>acre</hi> junior, <hi>Thomas Browne, Alexander Mawe</hi> ſonne of <hi>John Mawe, John Clearke, Alexander Clearke</hi> ſenior, <hi>John Loughton, Thomas Coggan</hi> ſonne of <hi>George, George Chapman, Alexander Clearke</hi> junior, <hi>John Weſt, George Cutforth, Alexander Cut<g ref="char:EOLhyphen"/>forth, Alexander Chapman, Thomas Loughton, William Craſhawe, Robert Foſter, Thomas Stutting, Richard Bernard, Frances Iſle, Robert Willſon, George Wells, Peter Cheſman, Richard Cockes</hi> and <hi>John Hall,</hi> all of <hi>Epworth: Simon Wright, Wil<g ref="char:EOLhyphen"/>liam Moody, John Moody</hi> and <hi>Robert Moody</hi> of <hi>Belton: Richard Tayler, William Goldſmith, Charles Kelſey, Robert Barrow, John Wells, Gregory Johnſon, Thomas Travers, Samuel Maggott, Roger Philipſon, Robert Dawſon, Thomas Cooper, Henry <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayler, William Barker, Thomas Coggan</hi> and <hi>James Moody,</hi> all of <hi>Haxey.</hi>
+            </p>
+            <p>That the Tenants being thus Treated, repair ſeverall times to <hi>Michaell Mouckton</hi> a Juſtice of the Peace, he refuſeth to grant any Warrants, or Purſue any Legal courſe for their preſervation, but on the contrary gives ſeverall Encouragements to the Riotors; and ſome of them being indicted at a Seſſion for a notorious Ryot, and found Guilty; it was moved by ſome of the Juſtices, that they ſhould be fined 4 or 5 Marks apiece; the ſaid <hi>Mouckton</hi> moved openly, that they ſhould be fined but 6 pence, and it was carried, that it ſhould be but 12 pence apiece.</p>
+            <p>That in <hi>February</hi> 1650. upon full hearing in the Exchequer, a Decree was made for eſtabliſhing the Poſſeſſion with the Petitioners, which was publiſhed up<g ref="char:EOLhyphen"/>on the place in the preſence of divers of the Inhabitants, who having now gotten the influence of <hi>Lilburn, Wildman</hi> and <hi>Noddel,</hi> declared that they would not give any Obedience thereunto, nor to any Order of the Exchequer or Parliament, and ſaid they could make as good a Parliament themſelves; ſome ſaid it was a Parlia<g ref="char:EOLhyphen"/>ment of clouts, and that if they ſent any Forces, they would raiſe Forces to reſiſt them, and proceed to the defacing of the Church, and within ten daies time the totall demoliſhing the whole Town of <hi>Santoft,</hi> and other Houſes thereabout to the number of 82 Habitations, beſides Barns, Stables and other Outhouſes, pull
+<pb n="8" facs="tcp:105541:6"/>
+down and break in pieces a Windmill, and deſtroy all the Corn and Rapes on the 3400 Acres.</p>
+            <p>That the Dammages by ſeverall teſtimonies appear to be 80000<hi rend="sup">lb</hi> and up<g ref="char:EOLhyphen"/>ward.</p>
+            <p>That the Land being thus laid waſt, the Church defaced, the Town with all the Houſes, Mill and Outhouſes depopulated, and Corn deſtroyed (<hi>Lilburn, Wildman, Mouckton, Noddel</hi> Confederating) an agreement is made with ſeve<g ref="char:EOLhyphen"/>rall men of the Mannor of <hi>Epworth,</hi> that in Conſideration of 2000 Acres of the Land ſo laid waſt to be given to <hi>Lilburn</hi> and <hi>Wildman,</hi> and 200 Acres to <hi>Noddel,</hi> they ſhould defend them from all thoſe Ryots paſt, and to that purpoſe were to maintain the ſaid Inhabitants in poſſeſſion of all the reſt of the 7400 Acres before laid waſt, and keep them drie, and Deeds Sealed accordingly.</p>
+            <p>That then <hi>Lilburn</hi> and <hi>Noddel, Jaſper Margrave</hi> and <hi>George Stovin</hi> of <hi>Crowle</hi> with others, come to <hi>Stantoft</hi> Church on the Lords Day, where the <hi>French</hi> Con<g ref="char:EOLhyphen"/>gregation of Proteſtants were gathered, and forced them from thence, and <hi>Lil<g ref="char:EOLhyphen"/>burn</hi> told them they ſhould not come thither unleſs ſtronger than they.</p>
+            <p>That then <hi>Lilburn</hi> and <hi>Noddel</hi> go to another Mannor called <hi>Crowle,</hi> and there they agree with ſome of that Mannor to aſſiſt them to get their Commons again, as <hi>Epworth</hi> had done, where they adviſe them that they ſhould Impound the Tenants Cattle, and if they Replevied, to Impound them again and break their Fences, and eat up their Crops, and ſo tire them out untill they attorned Tenants to them, which they did accordingly.</p>
+            <p>That the Tenants being thus terrified, and ſeeing their condition was to be like their Neighbours, they take Leaſes from <hi>Jaſper Margrave,</hi> and <hi>George Stovin,</hi> who gave bonds to ſave them harmeleſs, and ſo the Petitioners by the former force and this practice, were outed of their poſſeſſion of both thoſe Mannors.</p>
+            <p>That at the making of thoſe Leaſes, <hi>Noddel</hi> declares openly in the preſence of 20 perſons, that he would lay 20 ſhillings with any man, that as ſoon as <hi>Lilburn</hi> came to <hi>London,</hi> there ſhould be a new Parliament, <hi>Lilburn</hi> ſhould be one, and call this Parliament to an account; further adding, that they had now finiſhed this of <hi>Lincolnſhire</hi> (meaning gotten the Land from the Petitioners) they would go into <hi>Yorkshire</hi> (meaning the reſt of the Levell) and do the like there, and then they would give the Attorney Generall work enough to do.</p>
+            <p>That <hi>Noddel</hi> ſaid at another time, that now they had drawn their Caſe, they would Print it, and nail it at the Parliament door, and if they would not do them Juſtice, they would come up, make an Outcry, and pull them out by the ears.</p>
+            <p>That when they had made the Agreement before mentioned for the 2200 Acres to be divided as aforeſaid, then <hi>Lilburn, Wildman</hi> and <hi>Noddel</hi> cauſe to be meaſu<g ref="char:EOLhyphen"/>red, and take into their Poſſeſſions the proportions above mentioned, and agree with ſeverall perſons to Let proportions thereof, <hi>Lilburn</hi> repairs the Houſe that was built for the Miniſter, and partly pull'd down by the Riotors, and puts his ſervants into it to keep the poſſeſſion thus attained, and having forc't away the Miniſter and Congregation, imployes the Church to the uſe of a Stable, Cow houſe and Slaugh<g ref="char:EOLhyphen"/>ter-houſe, to lay hay and ſtraw in.</p>
+            <p>That <hi>Wildman</hi> being preſent at the Examination of ſeverall Witneſſes produced by the Petitioners, who proved that <hi>Wildman</hi> was preſent when <hi>Lilburn</hi> made the bargain, that they two in Conſideration of 2000 Acres to them, and 200 to <hi>Nod<g ref="char:EOLhyphen"/>del,</hi> of the Land ſo laid waſt, ſhould defend the Inhabitants from all Ryots paſt and to come, and at their charge maintain them in the Poſſeſſion of the remaining 5200 Acres, all but the Charge of a triall that was to be in <hi>Michaelmas</hi> Term fol<g ref="char:EOLhyphen"/>lowing; and that he was preſent when the Deeds were Sealed to <hi>Lilburn</hi> and him<g ref="char:EOLhyphen"/>ſelf of the 2000 Acres, both which he denied with great Imprecations and invoca<g ref="char:EOLhyphen"/>tions of Judgments to fall on him, if he were either Party or Privy, or was to have had any advantage thereby, till a Deed was produced; which being ſhewed him, he confeſſed to be his own Hand and Seal, in which he did Covenant as in that Deed is expreſt.</p>
+            <p>
+               <pb n="9" facs="tcp:105541:6"/>The Inhabitants ſay in their Defence, that the Lands before the Draining fed Cattle fit for the Butchers, but the Witneſſes being croſs Interrogated ſay, that it was overflown with water in Summer before the Draining, and that in <hi>May, June</hi> and <hi>July,</hi> and all the Summer long, they took Fiſh in ſeverall places, un<g ref="char:EOLhyphen"/>leſs in a very drie Summer, and that they went in Boats Swan-hopping in Summer.</p>
+            <p>They alſo ſay, that Snow Sewer was pulled up to defend the Iſle from the coming of S<hi rend="sup">r</hi> 
+               <hi>Ralph Hausby</hi> then of the Kings party.</p>
+            <p>They alſo ſay, that the Saſs was pulled up by the Command of one whom they knew not, but he told the Inhabitants that he was a Captain of S<hi rend="sup">r</hi> 
+               <hi>John Meldrums: Noddel</hi> in defence of his coming with 400 men to oppoſe the Sheriff, produceth Witneſſes, who Depoſe they heard one ſay, M<hi rend="sup">r</hi> 
+               <hi>Gibbon</hi> ſent to invite him to come, And in his Examination in the Exchequer, he ſaith, he came to apprehend M<hi rend="sup">r</hi> 
+               <hi>Gibbon</hi> upon a Warrant.</p>
+            <p>
+               <hi>Noddel</hi> alſo produceth Witneſſes, who ſay he hath been accounted well-affected to the Parliament.</p>
+            <p>But as to the Charges of Draining, the quiet poſſeſſion of the Petitioners for ten years, the matter of Force and Ryot, in deſtroying Corn, in oppoſing the Sheriff, and throwing down the Fences, pulling down the Houſes and Windmill, and fetching away the Tenants Cattle by force, denying Replevins, depopula<g ref="char:EOLhyphen"/>ting the Town of <hi>Santoft,</hi> defacing the Church, forcing away the Miniſter and Congregation on the Lords Day, the Contract of <hi>Lilburn</hi> and <hi>Wildman</hi> for 2000 Acres to them, and 200 to <hi>Noddel,</hi> the practice with the Tenants of the Mannor of <hi>Crowle,</hi> the language ſpoken againſt the Parliament, and the Dammage done to the Petitioners and their Tenants, no Defence is made.</p>
+            <p>The Parliament being Diſſolved before this Report was made to the Houſe: the Council of State ſend for that Report, and made Reference thereof to a ſelect Committee of the Council and joyned M<hi rend="sup">r</hi> 
+               <hi>Scabell,</hi> and upon ſeverall Examinations of Depoſitions taken in the Court, and hearing of both ſides, this enſuing Order was made.</p>
+         </div>
+         <div type="order">
+            <head>THE ORDER OF THE Council of STATE.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>THe Council of State having heretofore upon the Petition of the Participants, in the Draining of the Levell of <hi>Hatfield Chace,</hi> in the Counties of <hi>York, Lincolne</hi> and <hi>Nottingham,</hi> preferred unto them the 14<hi rend="sup">th</hi> of <hi>June</hi> laſt, relating unto a Report drawn up up<g ref="char:EOLhyphen"/>on full hearing by a Committee of the late Parliament, concerning divers Ryots and Outrages, and other unlawfull Actions committed within the Iſle of <hi>Axholm,</hi> by the Inhabitants and Tenants of the Mannor of <hi>Epworth</hi> in the ſaid County of <hi>Lincolne,</hi> and <hi>Miſterton</hi> in the County of <hi>Nottingham,</hi> againſt the Participants in the ſaid Draynage and the Improvement thereof; did thereupon referre the ſaid Report unto a
+<pb n="10" facs="tcp:105541:7"/>
+ſelect number of Perſons to be conſidered of, and they to report their Opinions concerning the ſame to the Council, who having compared the ſaid Reports with the Depoſitions of Witneſſes examined on both ſides before the ſaid Committee of Parliament, and alſo again heard what could be alleadged on either ſide touching the ſaid Report; have certified unto the Council, that they do finde the ſubſtance of the ſaid Report warranted by the ſaid Depoſitions, and nothing materially ob<g ref="char:EOLhyphen"/>jected by the ſaid Inhabitants and Tenants againſt the ſame; and upon conſideration of the whole matter, have certified their opinions, that the 7<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>00 Acres of Land in the ſaid Report mentioned, ought to be ſet<g ref="char:EOLhyphen"/>led in the poſſeſſion of the Participants, and the ſame quieted with them; and that a ſpeciall Commiſſion iſſue to try the Ryoters, that as well the Offenders may be puniſhed, as the Sufferers repaired in a Legall way according to Juſtice, as by their ſaid Certificate Regiſtred, together with the ſaid Report amongſt the Acts and Orders of the Council more at large appeareth: Of all which the Council having taken mature con<g ref="char:EOLhyphen"/>ſideration, and approving the ſaid Certificates, and the Opinions there<g ref="char:EOLhyphen"/>in delivered; and finding by the ſaid Report, that the ſaid Participants have been by the Ryotous tumultuary proceedings and evil practiſes of divers perſons in the ſaid Report particularly named, violently thrown out of the poſſeſſion thereof, the Corn and Rapes there growing to a great value wholly deſtroyed, the Houſes there built by them for habi<g ref="char:EOLhyphen"/>tation in a great number, and even the whole Town of <hi>Santoft</hi> ruinated and demoliſhed, and the Church defaced, the Saſſes pulled up, and all the ſaid Improvement endeavoured to be again laid waſte, and the Parti<g ref="char:EOLhyphen"/>cipants kept from their poſſeſſion thereof by force, notwithſtanding a Decree made in the Court of Exchequer upon the ſaid Improvement, and divers Orders and Injunctions ſince there iſſued for the preſervation of the Participants poſſeſſion, and prevention from thoſe Ryots and di<g ref="char:EOLhyphen"/>ſturbances; which although ſeconded with Writs of Aſſiſtance to the Sheriffs, have been from time to time contemned and diſobeyed, to the great affront of Juſtice, dammage to the Commonwealth in generall, and the prejudice of the Intereſt of the State in the Feefarm Rent of 1228<hi rend="sup">lb</hi> by the year reſerved out of the ſaid Improved Lands; all which hath been of late promoted by the countenance and encouragement of Lieutenant Collonel <hi>John Lilburn,</hi> Major <hi>John Wildman,</hi> and one <hi>Daniell Noddell</hi> a Solicitor; which three by compact and agreement with divers of the ſaid Inhabitants, were to have and meaſured out to themſelves 2200 Acres of the ſaid Participants Lands for their reward in under<g ref="char:EOLhyphen"/>taking to defend the ſaid Inhabitants from their Ryots paſt, and to main<g ref="char:EOLhyphen"/>tain them in poſſeſſion of the reſt of the ſaid 7400 Acres againſt the ſaid Participants for the time to come, as by the Report amongſt other foul miſcarriages and miſdemeanors committed and done by the ſaid perſons and divers others therein particularly mentioned appeareth. The Coun<g ref="char:EOLhyphen"/>cil thereupon finding it neceſſary in this caſe, where the Decrees and Orders of the Courts of Juſtice have been with a high hand diſobeyed and reſiſted, to the endangering of the Peace of the Commonwealth, through the oppoſition of turbulent and ſeditious ſpirits, to apply the Military Power in Aid and Aſſiſtance of the Civil Government and Execution of Juſtice; Do hereby Order, Require and Authorize the
+<pb n="11" facs="tcp:105541:7"/>
+Forces of the Army quartering in the ſaid Levell of <hi>Hatfield Chace,</hi> or within the ſaid Counties of <hi>Yorke, Lincolne</hi> and <hi>Nottingham,</hi> or any of them, or any others that are or ſhall be in thoſe parts, to be aiding and aſſiſting to the Officers of Juſtice and the ſaid Participants in Draining of the ſaid Levell, for ſetling, eſtabliſhing and keeping the poſſeſſion of the ſaid 7400 Acres of the late improved Lands within the Mannor of <hi>Epworth</hi> in the ſaid Report mentioned with the ſaid Participants, and alſo for executing the Decrees and Orders of the ſaid Court of Exchequer, or any other Courts of Juſtice touching their poſſeſſion therein, and for preventing ſuch Ryots and Outrages for the future, and in reſpect of the great Dammage ſuffered by the Participants and their Tenants, it is further Ordered, That the Commiſſioners of the Great Seal for the time being, do Award a ſpeciall Commiſſion of <hi>Oyer</hi> and <hi>Terminer</hi> to the Judges of Aſſize for the ſaid reſpective Counties, to try the Ryo<g ref="char:EOLhyphen"/>ters, and to puniſh them according to Law and Juſtice; and to enquire of the Dammages ſuffered as aforeſaid by the Participants and their Te<g ref="char:EOLhyphen"/>nants, to the end they may have juſt Reparations for the ſame. <hi>Given at the Councill of State at</hi> Whitehall <hi>the</hi> 31 <hi>day of</hi> Auguſt 1613.</p>
+                  <closer>
+                     <signed>
+                        <hi>Signed in the Name, and by Order of the Council of State.</hi>
+                        <list>
+                           <item>
+                              <hi>Anth. Aſhly Cooper.</hi>
+                           </item>
+                           <item>John Thurloe <hi>Secretary.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>Wedneſday</hi> 31. Auguſt 1653. At the Council of State at <hi>Whitehall.</hi>
+                  </head>
+                  <opener>
+                     <salute>Ordered,</salute>
+                  </opener>
+                  <p>THat the Report made to the Council concerning the buſineſs of <hi>Hatfield Chace</hi> in <hi>Lincolnſhire</hi> be humbly preſented to the Parliament, and Collonel <hi>Thomlinſon</hi> is deſired to preſent the ſame accordingly.</p>
+               </body>
+            </floatingText>
+            <p>But notwithſtanding this and the former Orders and Letters of the Parlia<g ref="char:EOLhyphen"/>ment and Council, the ſaid Inhabitants ſtill continued in their ryotous and re<g ref="char:EOLhyphen"/>bellious poſture, not giving any obedience unto them, not the Decrees and Orders of the Court of Exchequer, nor Precepts of the Court of Sewers, ſtanding in defiance and oppoſition to all Authority. Upon the Petition of the ſaid Participants, and their Tennants, and Remonſtrance of the Commiſſi<g ref="char:EOLhyphen"/>oners of Sewers to His Highneſs and Council; An Order of reference was made the 15<hi rend="sup">th</hi> of <hi>Aprill</hi> 1656. to the Lord Commiſſioner <hi>Fines,</hi> Lord <hi>Lambert,</hi> Major Generall <hi>Desbrough,</hi> Lord <hi>Liſle,</hi> Lord <hi>Strickland,</hi> or any three of them, to conſider of the ſaid Petition, and report there opinion there<g ref="char:EOLhyphen"/>in to the Council; whereupon the ſaid Lords requeſt Major Generall <hi>Whalley</hi> to call both Parties before him, and to examine the whole matter in the ſaid Petition ſet forth, and make report thereof unto the ſaid Committee: which accordingly he did.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="12" facs="tcp:105541:8"/>
+                  <head>The Remonſtrance of the Commiſſioners of Sewers.</head>
+                  <opener>
+                     <salute>May it pleaſe your Highneſs:</salute>
+                  </opener>
+                  <p>IN purſuance of your Highneſs Letters Pattents bearing date the ſixth of <hi>July</hi> laſt, Impowring us amongſt others, to provide for the ſafety and preſervation of the Weſtriding of the County of <hi>Yorke,</hi> as alſo of the Improved Lands within the Levell of <hi>Hatfield Chace</hi> and parts adja<g ref="char:EOLhyphen"/>cent, within the Counties of <hi>Yorke, Lincolne</hi> and <hi>Nottingham;</hi> as alſo by vertue of ſeverall former Commiſſions, ſeverall Rates or Scots have been impoſed by ſeverall Decrees and Laws of Sewers, according to the tenor of the Statute. But when the Officers appointed thereunto, endeavoured the collecting and diſtraining for thoſe Rates aſſeſſed upon the Improved Lands within the Manner of <hi>Epworth</hi> in the Iſle of <hi>Axholme</hi> and County of <hi>Lincolne</hi> aforeſaid, ſeverall the Inhabi<g ref="char:EOLhyphen"/>tants of the ſaid Iſle have evilly intreated, menaced and wounded the ſaid Officers and their Aſſiſtants, and riotouſly reſcued their diſtreſſes from them: And being not contented with their having in a forcible manner diſpoſſeſſed the Participants of the ſaid Improvement of 7400 Acres (or thereabouts) of their Lands, as we are credibly informed; for which, and divers other offences, they are excepted out of the generall Act of Pardon; they have neceſſitated the ſaid Participants, with their remainder of their Improvement in the other Counties, to maintain the banks for preſervation of thoſe Lands ſo taken from them: And not<g ref="char:EOLhyphen"/>withſtanding their former miſdemeanors did too ſadly preſage their future diſobedience; yet hoping, what with earneſtneſs we deſired, a change of ſpirit in them; we requeſted our worthy friend <hi>Nathaniel Reading</hi> Eſq; (being both a Commiſſioner and Participant,) to ſee to the getting in of the Aſſeſſements charged upon the Lands aforeſaid; and upon his acceptance, impowred him accordingly; requiring the Sheriffs of the County to be aſſiſtant to him therein: But when the ſaid M<hi rend="sup">r</hi> 
+                     <hi>Reading</hi> had diſtrayned ſeverall of their Goods, ſome of the In<g ref="char:EOLhyphen"/>habitants of the ſaid Iſle, to the number of One hundred or thereabouts, with Swords, Piſtols, Carbines, Halberts and other Arms, at <hi>Hatfield</hi> in the County of <hi>Yorke,</hi> on the 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi rend="sup">th</hi> day of <hi>Octob.</hi> laſt, about the hours of Twelve or One in the night, did aſſault or ſet upon the perſons ap<g ref="char:EOLhyphen"/>pointed to keep the Cattell, and having dangerouſly wounded ſeverall of them, and amongſt others the Conſtable of the ſaid down, who in your Highneſs Name charged them to keep your peace, with ma<g ref="char:EOLhyphen"/>ny other hainous circumſtances of the Ryot, carried away the goods. And when on the 19 inſtant, the Sheriff of the ſaid County of <hi>Lincolne,</hi> in purſuance of our Precept, aſſiſted the ſaid M<hi rend="sup">r</hi> 
+                     <hi>Reading</hi> in the taking of another diſtreſs, ſeverall of the Inhabitants aforeſaid, to the number of 40 or 50, being armed as aforeſaid, came in a riotous manner, and being charged by the Sheriff in your Higneſs Name, to lay down their Arms and repair to their ſeverall dwellings, they not only refuſed to give obedience thereunto, but ſome of them with ſcandalous and oppro<g ref="char:EOLhyphen"/>brious language of the perſon of your Highneſs, and with divers affronts and menaces, cauſed the Sheriff and his company to depart away for fear of their lives, and reſcued that diſtreſs likewiſe; inſomuch that ſe<g ref="char:EOLhyphen"/>verall
+<pb n="13" facs="tcp:105541:8"/>
+perſons, as well Officers as others, have upon their Oaths in open Court declared, that they dare not go into the Iſle aforeſaid, upon exe<g ref="char:EOLhyphen"/>cution of certain Orders to them directed, without manifeſt danger of their lives.</p>
+                  <p>In our reflection upon theſe miſcarriages, our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>avours to vindicate the Authority of your Highneſs Commiſſion, a<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ing ro the power we derived thence, have not been leſs then our te<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>eſs of giving your Highneſs the trouble of their cognizance; nor is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> regret to finde ſo abſolute a neceſſity thereof leſs than either. But not being able ro ac<g ref="char:EOLhyphen"/>compliſh all thoſe ends for which by the ſaid Commiſſion we are intru<g ref="char:EOLhyphen"/>ſted, without getting in the arrears aforeſaid, and making the ſaid Lands contributary for the future to the publike Works, as the reſt of the Im<g ref="char:EOLhyphen"/>provement is; nor being able to do either without ſome extraordinary Aſſiſtance to the Civil Power. And fearing leaſt their violence ſhould aime at the further diſcompoſure of the publike peace, as by ſome of their ſcandalous and rebellious ſpeeches againſt your Highneſs too evidently appears: The duty we alwayes ſhall have for your Highneſs and the tranquillity of this Commonwealth, commanded us this Account with the Particulars annexed, in deteſtation of ſuch evil practiſes, and appre<g ref="char:EOLhyphen"/>henſion of their evil conſequences,</p>
+                  <closer>
+                     <dateline>
+                        <hi>Doncaster</hi>
+                        <date>the 25<hi rend="sup">th</hi> of <hi>January</hi> 1655.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Darcy Wentworth.</hi>
+                           </item>
+                           <item>
+                              <hi>Sam: Bolles.</hi>
+                           </item>
+                           <item>
+                              <hi>Will: Addams.</hi>
+                           </item>
+                           <item>
+                              <hi>Sam: Liſter.</hi>
+                           </item>
+                           <item>
+                              <hi>Hen: Perkins.</hi>
+                           </item>
+                           <item>
+                              <hi>Mar: v: Walkenbroughe.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Burdet.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Neville.</hi>
+                           </item>
+                           <item>
+                              <hi>Rob: Lee.</hi>
+                           </item>
+                           <item>
+                              <hi>Jo: Vincent.</hi>
+                           </item>
+                           <item>
+                              <hi>Joſeph Thoresby.</hi>
+                           </item>
+                           <item>
+                              <hi>John Croſſe.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Report of Commiſſary Generall <hi>Whalley.</hi>
+                  </head>
+                  <p>IN purſuance of your Order of the 15<hi rend="sup">th</hi> of <hi>April</hi> 1656, requiring me to enquire into the buſineſs of the poor Proteſtant ſtrangers French and Dutch, Inhabitants within the Levell of <hi>Hatfield Chace</hi> and parts adjacent within the Counties of <hi>Yorke, Lincolne</hi> and <hi>Nottingham,</hi> and to certifie the ſtate thereof to your Lordſhips; I have ſummoned divers Perſons, as well on the behalf of the Defendants as Com<g ref="char:EOLhyphen"/>plainants, before and upon the hearing of the matters on both ſides, do finde and humbly certifie; That in <hi>October</hi> 1650. the Inhabitants of <hi>Belton</hi> and <hi>Epworth</hi> in the Iſle of <hi>Axholme</hi> (among whom were <hi>Richard Mawe, Thomas Barnard,</hi> and <hi>William Robinſon</hi> of <hi>Belton,</hi>) did put in great numbers of Cattell into the French<g ref="char:EOLhyphen"/>mens Corn, <hi>viz.</hi> Wheat, Rye and Rapes, to the quantity of 800 or 900 Acres or thereabouts, and kept the Cattell in the ſaid Corn till <hi>June</hi> following. I likewiſe further finde, that the Inhabitants of the Iſle (amongſt whom were <hi>Robert Barnard</hi> and <hi>Jeffery Whitacre</hi> of <hi>Belton,</hi>) did pull down a Windmill of <hi>John Amery</hi> a French mans near <hi>Sandtoft,</hi> worth as is conceived 150<hi rend="sup">lb</hi>; as alſo that divers came from <hi>Belton</hi> and <hi>Epworth,</hi> and betwixt the 11<hi rend="sup">th</hi> day of <hi>June</hi> 1651. and the end of that moneth, pull'd down 84 dwelling Houſes, beſides Outhouſes. And the ſaid <hi>Robert Barnard,</hi> did with an iron maule, break down the planks of a Chamber, and told the reſt of his company, (being about 50 in number,) that they might do ſo. And I do further find, that a very great Ryot was com<g ref="char:EOLhyphen"/>mitted at <hi>Santoft</hi> in the ſaid Iſle on the 19<hi rend="sup">th</hi> of <hi>October,</hi> being the Lords
+<pb n="14" facs="tcp:105541:9"/>
+Day, in the year 1651. divers of the Inhabitants of the Iſle, with Lieutenant Col<g ref="char:EOLhyphen"/>lonell <hi>John Lilburn,</hi> and M<hi rend="sup">r</hi> 
+                     <hi>Noddel</hi> coming thither, who placed two men with their Swords by their ſides at the Church door; the ſaid Lieutenant Collonel <hi>Lilburn</hi> ſaying, that he was a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Houſe-holder in the Iſle as well as the reſt, and that they came to take poſſeſſion <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Church, and that the Miniſter ſhould not preach there, nor the people hear, <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot they were ſtronger they; upon which the people and Miniſter went away <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d laſtly, I do find, that on the 21<hi rend="sup">th</hi> of <hi>Janury</hi> 1655. di<g ref="char:EOLhyphen"/>vers of the Inhabita<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Iſle, purll'd down and break in pieces, the windowes, doors, ſeates, and Pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that Church; and that ſome of thoſe men diſcharged two Gunnes at M<hi rend="sup">r</hi> 
+                     <hi>Readings</hi> man, M<hi rend="sup">r</hi> 
+                     <hi>Walkenburghs</hi> man, and <hi>Peter de Rat</hi> a Dutch-man; and ſo followed them with their Gunnes cocked half a mile together, crying, Shoot again: and afterwards returned to the Church, and gathered the broken pieces of the doors, windows, Pulpit, <hi>&amp;c.</hi> and laid them on heapes in the middle of the Church, and ſet them on fire. Theſe Particulars have at large been made out to me by ſeverall Witneſſes, on the behalf of the Complainants, as alſo by the confeſſion of ſome perſons againſt whom the Accuſation was brought, and not denied by any: all which I humbly ſubmit to Your Lordſhips, <hi>&amp;c.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>June</hi> the 12<hi rend="sup">th</hi> 1656.</date>
+                     </dateline>
+                     <signed>Edward Whalley.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>And upon all former Proceedings, His Highneſs Council proceeded and made this Letter following to the ſaid Commiſſay Generall.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe poor Proteſtant Strangers, French and Duch, inhabiting within the Levell of <hi>Hatfield</hi> Chace, and Parts adjacent in the Counties of <hi>York, Lincolne</hi> and <hi>Nottingham,</hi> have addreſt themſelves by Petition to His Highneſs, complaining of the great interruptions received by them from the Inhabitants of the Iſle of <hi>Axholme:</hi> both in reference to the free Exerciſe of their Religion, and enjoyment of their Eſtates; upon Conſideration whereof, and of a Certificate from Your ſelf; mentioning the great Diſorders and ryo<g ref="char:EOLhyphen"/>tous Proceedings of the ſaid Inhabitants; as alſo of ſeverall accounts from the Commiſsioners of Sewers, and the Sheriff, intimating the violences and op<g ref="char:EOLhyphen"/>poſition which hath been offered by the ſaid armed Inhabitants, to the Officers of the Courts of Justice; and requesting ſome Military Aſsiſtance, to the Civil Powers; His Highneſs and Council, ſeriouſly reſenting the evil conſe<g ref="char:EOLhyphen"/>quences of ſuch miſcarriages, have thought fit in a ſpecial manner, to re<g ref="char:EOLhyphen"/>commend it to You, to improve Your Endeavour upon all occaſions to prevent all ſuch further Ryots and Diſorders in thoſe places; and in order thereunto, to puniſh ſuch ſcandalous diſobedience according to Your inſtructions, and not to ſuffer the ſaid Inhabitants to keep by them any Armes or other Inſtruments, for the further acting of ſuch Diſorders; as alſo to give order to ſome of Your Regiment to be effectually aiding and aſsiſting, to the Sheriffs of the reſpective Counties within Your aſsociation: or the Deputies and Collectors of the Court of Sewers, for the putting in Execution from time to time the Decrees, Preceſs, and Orders of any His Highneſs Courts at <hi>Weſtminſter,</hi> or of the Commiſsioners of Sewers; to the end, the Improvers Juſt Rites may be restored according to Law: and likew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe, that the ſaid Strangers may have the peaceable Exerciſe of their Religious Worſhip in, the place deſigned for the publique Exerciſe thereof.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Whitehall</hi>
+                        <date>
+                           <hi>the 21<hi rend="sup">th</hi>
+                           </hi> Aug. <hi>1656.</hi>
+                        </date>
+                     </dateline>
+                     <signed>
+                        <hi>Signed,</hi> &amp;c.</signed>
+                  </closer>
+                  <postscript>
+                     <p>To Commiſſary Generall <hi>Whalley,</hi> Major Generall of the Counties of <hi>Nottingham</hi> and <hi>Lincolne.</hi>
+                     </p>
+                  </postscript>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>Page</hi> 1. <hi>line</hi> 17. <hi>for</hi> 600000 <hi>read</hi> 60000. <hi>line</hi> 22. <hi>for</hi> Commiſſioners <hi>read</hi> Commo<g ref="char:EOLhyphen"/>ners <hi>line</hi> 31. <hi>for</hi> waſhes <hi>read</hi> waſtes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
